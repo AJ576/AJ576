@@ -6,8 +6,6 @@
 ![Current Streak](https://img.shields.io/badge/Current_Streak-7_days-orange?style=for-the-badge)  
 ![Longest Streak](https://img.shields.io/badge/Longest_Streak-13_days-red?style=for-the-badge)  
 ![Public Repositories](https://img.shields.io/badge/Public_Repos-18-green?style=for-the-badge)  
-![GitHub Join Date](https://img.shields.io/badge/Joined_GitHub-1_year_ago-purple?style=for-the-badge)  
-![Location](https://img.shields.io/badge/Location-New_York_City-darkblue?style=for-the-badge)  
 
 ## 🚀 Welcome to My GitHub!
 I'm a passionate **Software Engineer in the making** with a deep interest in **AI, Quantum Computing, and Scalable Systems**. Based in **NYC**, I thrive on solving complex problems and building innovative solutions that push the boundaries of technology. 
