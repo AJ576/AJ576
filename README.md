@@ -1,6 +1,5 @@
 # Hey, I'm Aditya! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/AJ576?style=social) ![GitHub stars](https://img.shields.io/github/stars/AJ576?style=social) ![Profile Views](https://komarev.com/ghpvc/?username=AJ576&color=blue)
 
 ![Total Contributions](https://img.shields.io/badge/Contributions-1190%2B-blue?style=for-the-badge)  
 ![Current Streak](https://img.shields.io/badge/Current_Streak-7_days-orange?style=for-the-badge)  
