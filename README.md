@@ -54,16 +54,9 @@ I'm a passionate **Software Engineer in the making** with a deep interest in **A
 
 ---
 
-## 🔬 Featured Projects
-📌 [**SitRight**](#) – Posture Detection App _(TensorFlow, OpenCV, MediaPipe)_  
-📌 [**MLB Play Prediction**](#) – Predicting MLB plays _(Google Cloud, Vertex AI, Flask)_  
-📌 [**Quantum Portfolio Optimizer**](#) – Leveraging Qiskit for finance _(Qiskit, Qbraid, Pandas)_  
-📌 [**Brain Tumor Classifier**](#) – AI model for medical imaging _(PyTorch, Streamlit)_  
-
----
 
 ## 🌎 Let's Connect!
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-jha777) |
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-jha777)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aditya-jha.vercel.app/)
 
 ---
