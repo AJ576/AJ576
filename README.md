@@ -14,14 +14,13 @@ I'm a passionate **Software Engineer in the making** with a deep interest in **A
 ### 🔍 What I'm Exploring
 - 🧠 **AI & Machine Learning** – From deep learning models to ethical AI
 - ⚛ **Quantum Computing** – Exploring Qiskit & quantum algorithms
-- ☁️ **Cloud & Scalable Systems** – Designing efficient and reliable architectures
 
 ---
 
 ## 🏫 About Me
-🎓 **Computer Science Student** @ *City College of New York* (GPA: 3.85)  
-🔬 **Research & Projects:** AI, Quantum Finance, and Computer Vision  
-🎤 **Community Builder:** TEDxCUNY | Accenture Career Catalyst | AI4ALL  
+🎓 **Computer Science Student** @ *City College of New York* 
+🔬 **Projects:** AI, Quantum Computing, Nueral Networks and Computer Vision  
+🎤 **Community:**  Accenture Career Catalyst | AI4ALL | TEDxCCNY 
 
 ---
 
