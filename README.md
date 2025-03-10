@@ -2,6 +2,13 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/AJ576?style=social) ![GitHub stars](https://img.shields.io/github/stars/AJ576?style=social) ![Profile Views](https://komarev.com/ghpvc/?username=AJ576&color=blue)
 
+![Total Contributions](https://img.shields.io/badge/Contributions-1190%2B-blue?style=for-the-badge)  
+![Current Streak](https://img.shields.io/badge/Current_Streak-7_days-orange?style=for-the-badge)  
+![Longest Streak](https://img.shields.io/badge/Longest_Streak-13_days-red?style=for-the-badge)  
+![Public Repositories](https://img.shields.io/badge/Public_Repos-18-green?style=for-the-badge)  
+![GitHub Join Date](https://img.shields.io/badge/Joined_GitHub-1_year_ago-purple?style=for-the-badge)  
+![Location](https://img.shields.io/badge/Location-New_York_City-darkblue?style=for-the-badge)  
+
 ## 🚀 Welcome to My GitHub!
 I'm a passionate **Software Engineer in the making** with a deep interest in **AI, Quantum Computing, and Scalable Systems**. Based in **NYC**, I thrive on solving complex problems and building innovative solutions that push the boundaries of technology. 
 
@@ -38,16 +45,8 @@ I'm a passionate **Software Engineer in the making** with a deep interest in **A
 ## 📊 GitHub Stats
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJ576&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AJ576&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AJ576&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AJ576&theme=radical)
 
-### 🏆 Achievements & Contribution Stats
-![Total Contributions](https://img.shields.io/badge/Contributions-1190%2B-blue?style=for-the-badge)  
-![Current Streak](https://img.shields.io/badge/Current_Streak-7_days-orange?style=for-the-badge)  
-![Longest Streak](https://img.shields.io/badge/Longest_Streak-13_days-red?style=for-the-badge)  
-![Public Repositories](https://img.shields.io/badge/Public_Repos-18-green?style=for-the-badge)  
-![GitHub Join Date](https://img.shields.io/badge/Joined_GitHub-1_year_ago-purple?style=for-the-badge)  
-![Location](https://img.shields.io/badge/Location-New_York_City-darkblue?style=for-the-badge)  
+
 
 ### 🏅 Selected Trophies
 ![High Repo Creator](https://img.shields.io/badge/High_Repo_Creator-21pt-brightgreen?style=for-the-badge)  
