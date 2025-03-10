@@ -39,6 +39,7 @@ I'm a passionate **Software Engineer in the making** with a deep interest in **A
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJ576&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AJ576&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AJ576&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AJ576&theme=radical)
 
 ### 🏆 Achievements & Contribution Stats
 ![Total Contributions](https://img.shields.io/badge/Contributions-1190%2B-blue?style=for-the-badge)  
