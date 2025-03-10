@@ -41,6 +41,9 @@ I'm a passionate **Software Engineer in the making** with a deep interest in **A
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AJ576&theme=radical)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AJ576&theme=radical&no-bg=true&margin-w=5)
 
+### 🏆 Achievements & Contribution Stats
+![Metrics](https://metrics.lecoq.io/AJ576?template=classic&base.activity=0&base.community=0&base.metadata=0&languages=1&isocalendar=1&achievements=1&notable=1&introduction=1&pagespeed=1)
+
 ---
 
 ## 🔬 Featured Projects
