@@ -41,12 +41,17 @@ I'm a passionate **Software Engineer in the making** with a deep interest in **A
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AJ576&theme=radical)  
 
 ### 🏆 Achievements & Contribution Stats
-- **Total Contributions:** 1,190+  
-- **Current Streak:** 7 days 🔥  
-- **Longest Streak:** 13 days  
-- **Public Repositories:** 18  
-- **Joined GitHub:** 1 year ago  
-- **Location:** New York City  
+![Total Contributions](https://img.shields.io/badge/Contributions-1190%2B-blue?style=for-the-badge)  
+![Current Streak](https://img.shields.io/badge/Current_Streak-7_days-orange?style=for-the-badge)  
+![Longest Streak](https://img.shields.io/badge/Longest_Streak-13_days-red?style=for-the-badge)  
+![Public Repositories](https://img.shields.io/badge/Public_Repos-18-green?style=for-the-badge)  
+![GitHub Join Date](https://img.shields.io/badge/Joined_GitHub-1_year_ago-purple?style=for-the-badge)  
+![Location](https://img.shields.io/badge/Location-New_York_City-darkblue?style=for-the-badge)  
+
+### 🏅 Selected Trophies
+![High Repo Creator](https://img.shields.io/badge/High_Repo_Creator-21pt-brightgreen?style=for-the-badge)  
+![Super Committer](https://img.shields.io/badge/Super_Committer-1.2kpt-gold?style=for-the-badge)  
+![First Pull Request](https://img.shields.io/badge/First_Pull_Request-8pt-blue?style=for-the-badge)  
 
 ---
 
