@@ -8,6 +8,10 @@
   ![Public Repositories](https://img.shields.io/badge/Public_Repos-18-green?style=for-the-badge)
 
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="600" height="300"/>
+</div>
+
 ## 🚀 Welcome to My GitHub!
 I'm a passionate **Software Engineer in the making** with a deep interest in **AI, Quantum Computing, and Scalable Systems**. Based in **NYC**, I thrive on solving complex problems and building innovative solutions that push the boundaries of technology. 
 
