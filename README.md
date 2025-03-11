@@ -1,17 +1,15 @@
 # Hey, I'm Aditya! 👋
 
 
-
-  ![Total Contributions](https://img.shields.io/badge/Contributions-1190%2B-blue?style=for-the-badge)  
-  ![Current Streak](https://img.shields.io/badge/Current_Streak-7_days-orange?style=for-the-badge)  
-  ![Longest Streak](https://img.shields.io/badge/Longest_Streak-13_days-red?style=for-the-badge)  
-  ![Public Repositories](https://img.shields.io/badge/Public_Repos-18-green?style=for-the-badge)
-
-
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE2MzkzNTQsIm5iZiI6MTc0MTYzOTA1NCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEwVDIwMzczNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlMDM0NDlmNGJhZDJmMWU0Mzk4MjEwMmIwNzQ4NGViNDUzMjJmMDNkN2RhOTk2NDMzM2YyOGM1ZDQ3ZmUyYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.--tFiDWnA7lBo96kHQ62C1fUtCJLXIiT6rnevxUWgDk">
 
 </div>
+
+![Total Contributions](https://img.shields.io/badge/Contributions-1190%2B-blue?style=for-the-badge)  
+  ![Current Streak](https://img.shields.io/badge/Current_Streak-7_days-orange?style=for-the-badge)  
+  ![Longest Streak](https://img.shields.io/badge/Longest_Streak-13_days-red?style=for-the-badge)  
+  ![Public Repositories](https://img.shields.io/badge/Public_Repos-18-green?style=for-the-badge)
 
 ## 🚀 Welcome to My GitHub!
 I'm a passionate **Software Engineer in the making** with a deep interest in **AI, Quantum Computing, and Scalable Systems**. Based in **NYC**, I thrive on solving complex problems and building innovative solutions that push the boundaries of technology. 
