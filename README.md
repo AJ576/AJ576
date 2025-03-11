@@ -107,9 +107,18 @@ I'm a passionate **Software Engineer in the making** with a deep interest in **A
 
 
 ## 🌎 Let's Connect!
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-jha777)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aditya-jha.vercel.app/)  
-[![Resume](https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/11qutg11bSTjxnp0Q7YWe_XD7tCTbMtb0/view)
+<p align="center">
+  <a href="https://linkedin.com/in/aditya-jha777">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://aditya-jha.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://drive.google.com/file/d/11qutg11bSTjxnp0Q7YWe_XD7tCTbMtb0/view">
+    <img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume">
+  </a>
+</p>
+
 
 
 ---
