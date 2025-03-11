@@ -107,8 +107,10 @@ I'm a passionate **Software Engineer in the making** with a deep interest in **A
 
 
 ## 🌎 Let's Connect!
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-jha777)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aditya-jha.vercel.app/)
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-jha777)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aditya-jha.vercel.app/)  
+[![Resume](https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/11qutg11bSTjxnp0Q7YWe_XD7tCTbMtb0/view)
+
 
 ---
 
