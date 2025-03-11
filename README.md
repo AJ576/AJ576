@@ -24,9 +24,9 @@ I'm a passionate **Software Engineer in the making** with a deep interest in **A
 ---
 
 ## 🏫 About Me
-🎓 **Computer Science Student** @ *City College of New York* 
-🔬 **Projects:** AI, Quantum Computing, Nueral Networks and Computer Vision  
-🌍 **Community & Leadership** – Engaged in **Accenture Career Catalyst, AI4ALL, and TEDxCCNY**
+- 🎓 **Computer Science Student** @ *City College of New York*
+- 🔬 **Projects:** AI, Quantum Computing, Nueral Networks and Computer Vision
+- 🌍 **Community & Leadership** – Engaged in **Accenture Career Catalyst, AI4ALL, and TEDxCCNY**
 
 ---
 
