@@ -99,7 +99,7 @@ I'm a passionate **Software Engineer in the making** with a deep interest in **A
 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=AJ576&theme=radical&no-bg=true&margin-w=5&title=Commit,Repositories,PullRequest"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AJ576&theme=radical&no-bg=true&margin-w=5&title=MultiLanguage,Commit,Repositories,Issues"/>
 
 
 ---
