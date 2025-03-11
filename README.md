@@ -1,4 +1,4 @@
-# Hey, I'm Aditya! 👋
+# Hi! I'm Aditya! 👋
 
 
 <div align="center">
