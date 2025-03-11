@@ -99,10 +99,8 @@ I'm a passionate **Software Engineer in the making** with a deep interest in **A
 
 
 
-### 🏅 Selected Trophies
-![High Repo Creator](https://img.shields.io/badge/High_Repo_Creator-21pt-brightgreen?style=for-the-badge)  
-![Super Committer](https://img.shields.io/badge/Super_Committer-1.2kpt-gold?style=for-the-badge)  
-![First Pull Request](https://img.shields.io/badge/First_Pull_Request-8pt-blue?style=for-the-badge)  
+<img src="https://github-profile-trophy.vercel.app/?username=AJ576&theme=radical&no-bg=true&margin-w=5&title=Commit,Repositories,PullRequest"/>
+
 
 ---
 
