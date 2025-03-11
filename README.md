@@ -75,6 +75,7 @@ I'm a passionate **Software Engineer in the making** with a deep interest in **A
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ### **DevOps & Cloud**  
