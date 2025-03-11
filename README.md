@@ -14,7 +14,7 @@
 </p>
 
 ## 🚀 Welcome to My GitHub!
-I'm a passionate **Software Engineer in the making** with a deep interest in **AI, Quantum Computing, and Scalable Systems**. Based in **NYC**, I thrive on solving complex problems and building innovative solutions that push the boundaries of technology. 
+"I'm an aspiring **Software Engineer** with a deep interest in **AI, Quantum Computing, and Scalable Systems**. Based in **NYC**, I thrive on solving complex problems and building innovative solutions that push the boundaries of technology. 
 
 ### 🔍 What I'm Exploring
 - 🧠 **AI & Machine Learning** – From deep learning models to ethical AI
