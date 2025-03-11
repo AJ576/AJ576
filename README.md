@@ -6,10 +6,12 @@
 
 </div>
 
-![Total Contributions](https://img.shields.io/badge/Contributions-1190%2B-blue?style=for-the-badge)  
-  ![Current Streak](https://img.shields.io/badge/Current_Streak-7_days-orange?style=for-the-badge)  
-  ![Longest Streak](https://img.shields.io/badge/Longest_Streak-13_days-red?style=for-the-badge)  
-  ![Public Repositories](https://img.shields.io/badge/Public_Repos-18-green?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-1190%2B-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current_Streak-7_days-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Longest_Streak-13_days-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public_Repos-18-green?style=for-the-badge" />
+</p>
 
 ## 🚀 Welcome to My GitHub!
 I'm a passionate **Software Engineer in the making** with a deep interest in **AI, Quantum Computing, and Scalable Systems**. Based in **NYC**, I thrive on solving complex problems and building innovative solutions that push the boundaries of technology. 
