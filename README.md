@@ -114,7 +114,7 @@ I'm an aspiring **Software Engineer** with a deep interest in **AI, Quantum Comp
   <a href="https://aditya-jha.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://drive.google.com/file/d/11qutg11bSTjxnp0Q7YWe_XD7tCTbMtb0/view">
+  <a href="https://drive.google.com/file/d/18vkxbQ96jFKD6IZuYzQzpHakTMhff8Be/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume">
   </a>
 </p>
